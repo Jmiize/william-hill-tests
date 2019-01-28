@@ -1,0 +1,11 @@
+{
+  "name": "test-williamhill-results",
+  "version": "1.0.0",
+  "main": "conf.js",
+  "dependencies": {
+    "protractor": "^5.4.1"
+  },
+  "scripts": {
+    "test": "protractor"
+  }
+}
